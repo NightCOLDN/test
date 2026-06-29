@@ -1,5 +1,1 @@
-# Hello, world!
-
-I study in Netology
-
-23.03.2026
+# Домашнее задание «Работа с PostgreSQL из Python»
